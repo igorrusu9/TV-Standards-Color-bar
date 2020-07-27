@@ -1,0 +1,5 @@
+Folder: HD-2 FHD (1920x1080)
+
+Display aspect ratio: 16:9
+Resolution: 1920x1080p24; 1920x1080p25; 1920x1080p30
+Generated files: 10 Step; 100mV Steps; EBU Color Bar; Four COlor Gradient; Grey Scale; SMPTE Color Bar; YCbCr Ramp
